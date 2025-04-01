@@ -2,7 +2,7 @@
   "expo": {
     "name": "CareSanctum-Mobile",
     "slug": "CareSanctum-Mobile",
-    "scheme": "CareSanctum",
+    "scheme": "caresanctum",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,8 @@
         "light": "./assets/icons/Light.png",
         "dark": "./assets/icons/Dark.png",
         "tinted": "./assets/icons/Tinted.png"
-      }
+      },
+      "bundleIdentifier": "com.caresanctum.CareSanctumMobile"
     },
     "android": {
       "adaptiveIcon": {
